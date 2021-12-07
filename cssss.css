@@ -459,7 +459,7 @@ cursor: pointer;
 
 
 
-		@media (min-width: 500px) and (max-width: 1023px){
+		@media (min-width: 700px) and (max-width: 1023px){
 	a{
 		text-decoration:none;
 		color: white;
@@ -986,7 +986,7 @@ cursor: pointer;
 
 
 
-		@media (max-width:499px ) {
+		@media (max-width:699px ) {
 			a{
 		text-decoration:none;
 		color: white;
