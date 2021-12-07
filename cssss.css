@@ -1009,7 +1009,7 @@ cursor: pointer;
 		display: grid;
 		grid-template-columns: repeat(10, 1fr);
 		grid-column-gap: 1em;
-		grid-template-rows: 88vh 10vh 42vh 1vh 40vh 50vh  55vh  0vh 20vh;
+		grid-template-rows: 88vh 10vh 45vh 1vh 40vh 55vh  55vh  0vh 20vh;
 		}
 
 .content img{
